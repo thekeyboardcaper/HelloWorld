@@ -3,6 +3,6 @@
 int
 main (int argc, char **argv)
 {
-  printf ("hello git!");
+  printf ("hello github!");
   return 0;
 }
